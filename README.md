@@ -9,7 +9,7 @@
 ---
 
 ## Live Deployment Link
-🔗 https://aurex-month2-week1-react-task-manager.vercel.app
+🔗 https://aurex-month2-week1-react-task-manager-otcefql6m-shanzaqammar.vercel.app/
 
 ---
 
